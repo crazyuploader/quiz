@@ -30,8 +30,6 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="row">
 <div class="col-lg-6">
 <span class="logo">Brain-O-Quiz</span></div>
-<div class="col-md-2 col-md-offset-4">
-<a href="#" class="pull-right btn sub1" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;<span class="title1"><b>Signin</b></span></a></div>
 
 </div><!--header row closed-->
 </div>
@@ -59,7 +57,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="form-group">
   <label class="col-md-12 control-label title1" for="email"></label>
   <div class="col-md-12">
-    <input id="email" name="email" placeholder="Enter your email-id" class="form-control input-md" type="email">
+    <input id="email" name="email" placeholder="Enter your Email" class="form-control input-md" type="email">
 
   </div>
 </div>
@@ -68,7 +66,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="form-group">
   <label class="col-md-12 control-label" for="mob"></label>
   <div class="col-md-12">
-  <input id="mob" name="mob" placeholder="Enter your mobile number" class="form-control input-md" type="number">
+  <input id="mob" name="mob" placeholder="Enter your Mobile Number" class="form-control input-md" type="number">
 
   </div>
 </div>
@@ -79,7 +77,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="form-group">
   <label class="col-md-12 control-label" for=""></label>
   <div class="col-md-12">
-    <input  type="submit" class="sub" value="sign up" class="btn btn-primary"/>
+    <input  type="submit" class="sub" value="Sign Up" class="btn btn-primary"/>
   </div>
 </div>
 
@@ -92,15 +90,13 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.netcamp.in" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#developers">Developers</a>
 </div>
-<div class="col-md-3 box">
-<a href="feedback.php" target="_blank">Feedback</a></div></div>
+</div>
 <!-- Modal For Developers-->
 <div class="modal fade title1" id="developers">
   <div class="modal-dialog">
@@ -117,10 +113,10 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="https://www.facebook.com/sunnygkp10" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Sunny Prakash Tiwari</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+917785068889</h4>
-		<h4 style="font-family:'typo' ">sunnygkp10@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Kamla Nehru Institute Of Technology ,Sultanpur</h4></div></div>
+		<a href="https://twitter.com/Choochiye" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Twitter">Jugal Kishore || Akash Siva</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+919568260902 +919568260902</h4>
+		<h4 style="font-family:'typo' ">jugalkishor839@gmail.com</h4>
+		<h4 style="font-family:'typo' ">DR. MPS Group of Insituitions, Agra</h4></div></div>
 		</p>
       </div>
 
