@@ -110,11 +110,11 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="image/pic.png" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
 		<a href="https://twitter.com/Choochiye" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Twitter">Jugal Kishore || Akash Siva</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+919568260902 +919568260902</h4>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+919568260902 +919058595082</h4>
 		<h4 style="font-family:'typo' ">jugalkishor839@gmail.com</h4>
 		<h4 style="font-family:'typo' ">DR. MPS Group of Insituitions, Agra</h4></div></div>
 		</p>
