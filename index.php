@@ -93,31 +93,10 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="form-group">
   <label class="col-md-12 control-label" for="name"></label>
   <div class="col-md-12">
-  <input id="name" name="name" placeholder="Enter your name" class="form-control input-md" type="text">
+  <input id="name" name="name" placeholder="Enter your Team Name" class="form-control input-md" type="text">
 
   </div>
 </div>
-
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-12 control-label" for="gender"></label>
-  <div class="col-md-12">
-    <select id="gender" name="gender" placeholder="Enter your gender" class="form-control input-md" >
-   <option value="Male">Select Gender</option>
-  <option value="M">Male</option>
-  <option value="F">Female</option> </select>
-  </div>
-</div>
-
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-12 control-label" for="name"></label>
-  <div class="col-md-12">
-  <input id="college" name="college" placeholder="Enter your college name" class="form-control input-md" type="text">
-
-  </div>
-</div>
-
 
 <!-- Text input-->
 <div class="form-group">
@@ -137,23 +116,6 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   </div>
 </div>
 
-
-<!-- Text input-->
-<div class="form-group">
-  <label class="col-md-12 control-label" for="password"></label>
-  <div class="col-md-12">
-    <input id="password" name="password" placeholder="Enter your password" class="form-control input-md" type="password">
-
-  </div>
-</div>
-
-<div class="form-group">
-  <label class="col-md-12control-label" for="cpassword"></label>
-  <div class="col-md-12">
-    <input id="cpassword" name="cpassword" placeholder="Conform Password" class="form-control input-md" type="password">
-
-  </div>
-</div>
 <?php if(@$_GET['q7'])
 { echo'<p style="color:red;font-size:15px;">'.@$_GET['q7'];}?>
 <!-- Button -->
